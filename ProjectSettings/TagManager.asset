@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fighter
+  - Enemy
+  - Barrier
+  - weapon
+  - Collectable
+  - passage1
+  - passage2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - Actor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1140918199
+    locked: 0
+  - name: Floor
+    uniqueID: 4058000797
+    locked: 0
+  - name: Decoration
+    uniqueID: 3391313019
+    locked: 0
+  - name: Interactable
+    uniqueID: 829222641
+    locked: 0
+  - name: Actor
+    uniqueID: 2212549787
+    locked: 0
+  - name: Weapon
+    uniqueID: 3331882799
+    locked: 0
+  - name: Walls
+    uniqueID: 1081301405
+    locked: 0
+  - name: Added Feature
+    uniqueID: 315172927
+    locked: 0
+  - name: Front of Added Feature
+    uniqueID: 344646389
+    locked: 0

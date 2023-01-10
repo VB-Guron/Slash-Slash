@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: edb40b1e56ece914e9674608564dde82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8905974491555112898
+    second: Orc Boss_0
+  - first:
+      213: -1868652806872282258
+    second: Orc Boss_1
+  - first:
+      213: 7654890457552024588
+    second: Orc Boss_2
+  - first:
+      213: 457040519215723212
+    second: Orc Boss_3
+  - first:
+      213: -5906088979496785851
+    second: Orc Boss_4
+  - first:
+      213: 2954559626963926324
+    second: Orc Boss_5
+  - first:
+      213: 5998115686058503514
+    second: Orc Boss_6
+  - first:
+      213: 8004958578914291460
+    second: Orc Boss_7
+  - first:
+      213: 2606908025146242440
+    second: Orc Boss_8
+  - first:
+      213: 5434246512061854847
+    second: Orc Boss_9
+  - first:
+      213: 9129241783747978491
+    second: Orc Boss_10
+  - first:
+      213: -255084865532481275
+    second: Orc Boss_11
+  - first:
+      213: 1584097459830959414
+    second: Orc Boss_12
+  - first:
+      213: -1702814723215418250
+    second: Orc Boss_13
+  - first:
+      213: -1380412818820493674
+    second: Orc Boss_14
+  - first:
+      213: 6213196233482571263
+    second: Orc Boss_15
+  - first:
+      213: -188153705340065324
+    second: Orc Boss_16
+  - first:
+      213: -3047457605049963986
+    second: Orc Boss_17
+  - first:
+      213: 2713702655680254155
+    second: Orc Boss_18
+  - first:
+      213: 8353345809206585139
+    second: Orc Boss_19
+  - first:
+      213: 1107411342854041779
+    second: Orc Boss_20
+  - first:
+      213: 5683775292997518847
+    second: Orc Boss_21
+  - first:
+      213: -3962949384907766210
+    second: Orc Boss_22
+  - first:
+      213: 6202454847188099384
+    second: Orc Boss_23
+  - first:
+      213: 527872404289941068
+    second: Orc Boss_24
+  - first:
+      213: -7859172645659307769
+    second: Orc Boss_25
+  - first:
+      213: -5024442103290186711
+    second: Orc Boss_26
+  - first:
+      213: 1320260760326176013
+    second: Orc Boss_27
+  - first:
+      213: -1732046670849707538
+    second: Orc Boss_28
+  - first:
+      213: 1616432672092738534
+    second: Orc Boss_29
+  - first:
+      213: 3216816616424970075
+    second: Orc Boss_30
+  - first:
+      213: -4379605573344528000
+    second: Orc Boss_31
+  - first:
+      213: 5986007474999858946
+    second: Orc Boss_32
+  - first:
+      213: 7454581300531501995
+    second: Orc Boss_33
+  - first:
+      213: -8590802863986663911
+    second: Orc Boss_34
+  - first:
+      213: -1779174677075708541
+    second: Orc Boss_35
+  - first:
+      213: 6022299498015382095
+    second: Orc Boss_36
+  - first:
+      213: 7265009408728495316
+    second: Orc Boss_37
+  - first:
+      213: 2407036685866636642
+    second: Orc Boss_38
+  - first:
+      213: -7025736600998839779
+    second: Orc Boss_39
+  - first:
+      213: -6791793495924529544
+    second: Orc Boss_40
+  - first:
+      213: 4810144230121629588
+    second: Orc Boss_41
+  - first:
+      213: -3856427794726671374
+    second: Orc Boss_42
+  - first:
+      213: -6592137129481508297
+    second: Orc Boss_43
+  - first:
+      213: -7197222061489011714
+    second: Orc Boss_44
+  - first:
+      213: 4730115793538899567
+    second: Orc Boss_45
+  - first:
+      213: -764744516579124140
+    second: Orc Boss_46
+  - first:
+      213: -1705096756933018668
+    second: Orc Boss_47
+  - first:
+      213: -6551674265201933666
+    second: Orc Boss_48
+  - first:
+      213: 3226681059820976229
+    second: Orc Boss_49
+  - first:
+      213: -4637367202252092089
+    second: Orc Boss_50
+  - first:
+      213: -3748425818636651322
+    second: Orc Boss_51
+  - first:
+      213: 8059384606232687762
+    second: Orc Boss_52
+  - first:
+      213: 441344742758282522
+    second: Orc Boss_53
+  - first:
+      213: 7107822877960003208
+    second: Orc Boss_54
+  - first:
+      213: -4812324209013201333
+    second: Orc Boss_55
+  - first:
+      213: -8619287114463284874
+    second: Orc Boss_56
+  - first:
+      213: 4943880577019685931
+    second: Orc Boss_57
+  - first:
+      213: -4371057745183221259
+    second: Orc Boss_58
+  - first:
+      213: -7213393592906415131
+    second: Orc Boss_59
+  - first:
+      213: 4872748821002886230
+    second: Orc Boss_60
+  - first:
+      213: -4217760378893284468
+    second: Orc Boss_61
+  - first:
+      213: 8127566630397043904
+    second: Orc Boss_62
+  - first:
+      213: -654486848018132118
+    second: Orc Boss_63
+  - first:
+      213: 2281171134199172936
+    second: Orc Boss_64
+  - first:
+      213: 6600709680631691971
+    second: Orc Boss_65
+  - first:
+      213: -7598285780216878981
+    second: Orc Boss_66
+  - first:
+      213: -7265906698971213679
+    second: Orc Boss_67
+  - first:
+      213: 8846139873306486318
+    second: Orc Boss_68
+  - first:
+      213: -7137536968789232021
+    second: Orc Boss_69
+  - first:
+      213: 8026166582888145679
+    second: Orc Boss_70
+  - first:
+      213: 5313198648802060266
+    second: Orc Boss_71
+  - first:
+      213: 6858550213971441588
+    second: Orc Boss_72
+  - first:
+      213: -3635044956210526
+    second: Orc Boss_73
+  - first:
+      213: 1842363651275894632
+    second: Orc Boss_74
+  - first:
+      213: 4797796367591644431
+    second: Orc Boss_75
+  - first:
+      213: 6771536015932179541
+    second: Orc Boss_76
+  - first:
+      213: 3959428084108266747
+    second: Orc Boss_77
+  - first:
+      213: 146397833005373575
+    second: Orc Boss_78
+  - first:
+      213: 3337578551037950837
+    second: Orc Boss_79
+  - first:
+      213: -4784505838698133474
+    second: Orc Boss_80
+  - first:
+      213: -5688119948697741052
+    second: Orc Boss_81
+  - first:
+      213: 435247075284489536
+    second: Orc Boss_82
+  - first:
+      213: -5862138392888570334
+    second: Orc Boss_83
+  - first:
+      213: 5670144625087864258
+    second: Orc Boss_0
+  - first:
+      213: 1895300491855264188
+    second: Orc Boss_1
+  - first:
+      213: 2614663610552455535
+    second: Orc Boss_2
+  - first:
+      213: 5156903538655618324
+    second: Orc Boss_3
+  - first:
+      213: -3458700093216188307
+    second: Orc Boss_4
+  - first:
+      213: 8146238723390628454
+    second: Orc Boss_5
+  - first:
+      213: -2590226434745867870
+    second: Orc Boss_6
+  - first:
+      213: -3240523116440767647
+    second: Orc Boss_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orc Boss_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdd37bae7660be40800000000000000
+      internalID: 5670144625087864258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Boss_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9f7af61c57d4a10800000000000000
+      internalID: 1895300491855264188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Boss_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f619e1263b6294420800000000000000
+      internalID: 2614663610552455535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Boss_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e58a2270019740800000000000000
+      internalID: 5156903538655618324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Boss_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d681d37179a3000d0800000000000000
+      internalID: -3458700093216188307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Boss_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662ea3355f04d0170800000000000000
+      internalID: 8146238723390628454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Boss_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1652df7caad0cd0800000000000000
+      internalID: -2590226434745867870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Boss_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1633b1605695703d0800000000000000
+      internalID: -3240523116440767647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Boss_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885f4f079099d2420800000000000000
+      internalID: 2606908025146242440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
