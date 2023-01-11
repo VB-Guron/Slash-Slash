@@ -17,7 +17,7 @@ The game was a collaborative project with a goal to create a top-down dungeon cr
 ## 🛠 Skills
 C#, and Unity
 ## Game Pitch Idea
-[video](https://drive.google.com/open?id=1YAAXB7KU1cdjC_dnxb7N53-K7ZU5gjcQ&authuser=vonbryan.guron.cics%40ust.edu.ph&usp=drive_fs)
+[Google Drive Link](https://drive.google.com/open?id=1YAAXB7KU1cdjC_dnxb7N53-K7ZU5gjcQ&authuser=vonbryan.guron.cics%40ust.edu.ph&usp=drive_fs)
 
 ## Read about the Design Documentation
 [Read More about it](https://github.com/VB-Guron/Slash-Slash/files/10387731/Design.Documentation.pdf)
